@@ -1,0 +1,1 @@
+<h1>Welcome to plugin boiler plate</h1>

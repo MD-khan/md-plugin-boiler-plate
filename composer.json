@@ -1,0 +1,19 @@
+{
+    "name": "md/md-plugin-boiler-plate",
+    "description": "Awesome starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Plugin Boiler Plate",
+            "email": "md.monir.khan707@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./Include"
+        }
+    }
+}
